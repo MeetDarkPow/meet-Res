@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 21.1) (preloaded format=xelatex 2021.2.5)  12 FEB 2021 23:02
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 21.1) (preloaded format=xelatex 2021.2.5)  19 FEB 2021 13:12
 entering extended mode
 **./main.tex
 (main.tex
@@ -819,83 +819,83 @@ t;+smcp;mapping=tex-text;"
 
 
 LaTeX Font Warning: Font shape `TU/Calibri(0)/b/n' undefined
-(Font)              using `TU/Calibri(0)/m/n' instead on input line 116.
+(Font)              using `TU/Calibri(0)/m/n' instead on input line 125.
 
 
 LaTeX Font Warning: Font shape `TU/CALIBRIB(0)/b/n' undefined
-(Font)              using `TU/CALIBRIB(0)/m/n' instead on input line 123.
+(Font)              using `TU/CALIBRIB(0)/m/n' instead on input line 132.
 
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 130.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 139.
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 130.
+(Font)              size <5> substituted on input line 139.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 130.
+(Font)              size <5> substituted on input line 139.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 130.
+(Font)              size <5> substituted on input line 139.
 
 
-Overfull \hbox (1.22873pt too wide) in paragraph at lines 125--131
+Overfull \hbox (1.22873pt too wide) in paragraph at lines 134--140
  $[]$ 
  []
 
 
-Overfull \hbox (1.22873pt too wide) in paragraph at lines 136--143
+Overfull \hbox (1.22873pt too wide) in paragraph at lines 145--152
  $[]$ 
  []
 
 
-Overfull \hbox (1.22873pt too wide) in paragraph at lines 148--153
+Overfull \hbox (1.22873pt too wide) in paragraph at lines 157--162
  $[]$ 
  []
 
 
-Overfull \hbox (1.22873pt too wide) in paragraph at lines 158--164
+Overfull \hbox (1.22873pt too wide) in paragraph at lines 167--173
  $[]$ 
  []
 
 
-Overfull \hbox (1.22873pt too wide) in paragraph at lines 172--178
+Overfull \hbox (1.22873pt too wide) in paragraph at lines 181--187
  $[]$ 
  []
 
 
-Overfull \hbox (1.22873pt too wide) in paragraph at lines 179--185
+Overfull \hbox (1.22873pt too wide) in paragraph at lines 188--194
  $[]$ 
  []
 
 
-Overfull \hbox (1.22873pt too wide) in paragraph at lines 186--194
+Overfull \hbox (1.22873pt too wide) in paragraph at lines 195--203
  $[]$  
  []
 
 
-Overfull \hbox (1.22873pt too wide) in paragraph at lines 198--204
+Overfull \hbox (1.22873pt too wide) in paragraph at lines 207--213
  $[]$ 
  []
 
 
-Overfull \hbox (1.22873pt too wide) in paragraph at lines 205--211
+Overfull \hbox (1.22873pt too wide) in paragraph at lines 214--220
  $[]$ 
  []
 
 
-Underfull \hbox (badness 3758) in paragraph at lines 215--216
+Underfull \hbox (badness 3758) in paragraph at lines 224--225
 []\TU/Calibri(0)/m/n/11 Result Portal, Voice Calci, Cubic Bispline, Image Compr
 ession,
  []
 
 
-Overfull \hbox (1.22873pt too wide) in paragraph at lines 212--217
+Overfull \hbox (1.22873pt too wide) in paragraph at lines 221--226
  $[]$  
  []
 
 
-Overfull \hbox (11.07852pt too wide) in paragraph at lines 20--218
+Overfull \hbox (11.07852pt too wide) in paragraph at lines 20--227
 [][]  [] 
  []
 
