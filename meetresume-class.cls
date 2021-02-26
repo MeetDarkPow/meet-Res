@@ -21,6 +21,9 @@
 \usepackage{lipsum}
 \usepackage{amsmath}
 \usepackage[super]{nth}
+\usepackage{tikz}
+\usepackage{graphicx}
+\graphicspath{ {images/} }
 
 % Color definitions
 \definecolor{date}{HTML}{666666} 
