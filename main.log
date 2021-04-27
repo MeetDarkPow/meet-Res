@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 21.1) (preloaded format=xelatex 2021.2.5)  26 FEB 2021 22:01
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 21.1) (preloaded format=xelatex 2021.2.5)  27 APR 2021 22:47
 entering extended mode
 **./main.tex
 (main.tex
@@ -1117,7 +1117,7 @@ File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 )
 
 LaTeX Font Warning: Font shape `TU/Calibri(3)/b/n' undefined
-(Font)              using `TU/Calibri(3)/m/n' instead on input line 45.
+(Font)              using `TU/Calibri(3)/m/n' instead on input line 47.
 
 
 Package fontspec Info: Font family 'CALIBRII(0)' created for font 'CALIBRII'
@@ -1137,47 +1137,47 @@ File: images//Profile_pic.png Graphic file (type bmp)
 <images//Profile_pic.png>
 
 LaTeX Font Warning: Font shape `TU/Calibri(0)/b/n' undefined
-(Font)              using `TU/Calibri(0)/m/n' instead on input line 126.
+(Font)              using `TU/Calibri(0)/m/n' instead on input line 129.
 
 
 LaTeX Font Warning: Font shape `TU/CALIBRIB(0)/b/n' undefined
-(Font)              using `TU/CALIBRIB(0)/m/n' instead on input line 133.
+(Font)              using `TU/CALIBRIB(0)/m/n' instead on input line 136.
 
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 139.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 142.
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 139.
+(Font)              size <5> substituted on input line 142.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 139.
+(Font)              size <5> substituted on input line 142.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 139.
+(Font)              size <5> substituted on input line 142.
 
 
-Overfull \hbox (1.22873pt too wide) in paragraph at lines 169--177
+Overfull \hbox (1.22873pt too wide) in paragraph at lines 172--180
  $[]$ 
  []
 
 
-Overfull \hbox (1.22873pt too wide) in paragraph at lines 180--189
+Overfull \hbox (1.22873pt too wide) in paragraph at lines 183--192
  $[]$ 
  []
 
 
-Overfull \hbox (1.22873pt too wide) in paragraph at lines 193--204
+Overfull \hbox (1.22873pt too wide) in paragraph at lines 196--207
  $[]$  
  []
 
 
-Overfull \hbox (1.22873pt too wide) in paragraph at lines 208--215
+Overfull \hbox (1.22873pt too wide) in paragraph at lines 211--218
  $[]$  
  []
 
 
-Overfull \hbox (11.07852pt too wide) in paragraph at lines 20--216
+Overfull \hbox (11.07852pt too wide) in paragraph at lines 20--219
 [][]  [] 
  []
 
@@ -1195,10 +1195,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 173D816E596621297F6513950C614D25;946.
  ) 
 Here is how much of TeX's memory you used:
- 26842 strings out of 412016
- 510918 string characters out of 2843701
- 958863 words of memory out of 3000000
- 46112 multiletter control sequences out of 15000+200000
+ 26841 strings out of 412016
+ 510898 string characters out of 2843701
+ 959863 words of memory out of 3000000
+ 46111 multiletter control sequences out of 15000+200000
  407118 words of font info for 85 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
  113i,5n,137p,418b,595s stack positions out of 5000i,500n,10000p,200000b,50000s
