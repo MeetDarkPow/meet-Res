@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 21.1) (preloaded format=xelatex 2021.2.5)  27 APR 2021 22:58
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 21.1) (preloaded format=xelatex 2021.2.5)  4 JUN 2021 01:13
 entering extended mode
 **./main.tex
 (main.tex
@@ -1117,7 +1117,7 @@ File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 )
 
 LaTeX Font Warning: Font shape `TU/Calibri(3)/b/n' undefined
-(Font)              using `TU/Calibri(3)/m/n' instead on input line 47.
+(Font)              using `TU/Calibri(3)/m/n' instead on input line 50.
 
 
 Package fontspec Info: Font family 'CALIBRII(0)' created for font 'CALIBRII'
@@ -1137,47 +1137,73 @@ File: images//Profile_pic.png Graphic file (type bmp)
 <images//Profile_pic.png>
 
 LaTeX Font Warning: Font shape `TU/Calibri(0)/b/n' undefined
-(Font)              using `TU/Calibri(0)/m/n' instead on input line 129.
+(Font)              using `TU/Calibri(0)/m/n' instead on input line 125.
 
 
 LaTeX Font Warning: Font shape `TU/CALIBRIB(0)/b/n' undefined
-(Font)              using `TU/CALIBRIB(0)/m/n' instead on input line 136.
+(Font)              using `TU/CALIBRIB(0)/m/n' instead on input line 132.
 
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 142.
+
+Underfull \hbox (badness 1221) in paragraph at lines 137--138
+\TU/Calibri(0)/m/n/11 visualize R conference/events tweets in a central flexdas
+hboard.
+ []
+
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 138.
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 142.
+(Font)              size <5> substituted on input line 138.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 142.
+(Font)              size <5> substituted on input line 138.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 142.
+(Font)              size <5> substituted on input line 138.
 
 
-Overfull \hbox (1.22873pt too wide) in paragraph at lines 172--180
+Overfull \hbox (1.22873pt too wide) in paragraph at lines 134--139
  $[]$ 
  []
 
 
-Overfull \hbox (1.22873pt too wide) in paragraph at lines 183--192
+Overfull \hbox (1.22873pt too wide) in paragraph at lines 145--150
  $[]$ 
  []
 
 
-Overfull \hbox (1.22873pt too wide) in paragraph at lines 196--207
+Overfull \hbox (1.22873pt too wide) in paragraph at lines 160--166
+ $[]$ 
+ []
+
+
+Overfull \hbox (1.22873pt too wide) in paragraph at lines 169--176
+ $[]$ 
+ []
+
+
+Overfull \hbox (1.22873pt too wide) in paragraph at lines 179--187
+ $[]$ 
+ []
+
+
+Overfull \hbox (1.22873pt too wide) in paragraph at lines 190--199
+ $[]$ 
+ []
+
+
+Overfull \hbox (1.22873pt too wide) in paragraph at lines 203--213
  $[]$  
  []
 
 
-Overfull \hbox (1.22873pt too wide) in paragraph at lines 211--218
+Overfull \hbox (1.22873pt too wide) in paragraph at lines 217--224
  $[]$  
  []
 
 
-Overfull \hbox (11.07852pt too wide) in paragraph at lines 20--219
+Overfull \hbox (11.07852pt too wide) in paragraph at lines 20--225
 [][]  [] 
  []
 
@@ -1192,15 +1218,15 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 173D816E596621297F6513950C614D25;946.
+(rerunfilecheck)             Checksum: 831CEEC9D59BA998F7F883DDC2BCDA7E;894.
  ) 
 Here is how much of TeX's memory you used:
  26841 strings out of 412016
  510898 string characters out of 2843701
- 959863 words of memory out of 3000000
+ 960799 words of memory out of 3000000
  46111 multiletter control sequences out of 15000+200000
  407118 words of font info for 85 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 113i,5n,137p,418b,595s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 113i,5n,137p,418b,591s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on main.pdf (1 page).
