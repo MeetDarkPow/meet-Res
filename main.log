@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 21.1) (preloaded format=xelatex 2021.2.5)  10 JUL 2021 11:36
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 21.1) (preloaded format=xelatex 2021.2.5)  10 JUL 2021 22:04
 entering extended mode
 **./main.tex
 (main.tex
@@ -1143,12 +1143,6 @@ LaTeX Font Warning: Font shape `TU/Calibri(0)/b/n' undefined
 LaTeX Font Warning: Font shape `TU/CALIBRIB(0)/b/n' undefined
 (Font)              using `TU/CALIBRIB(0)/m/n' instead on input line 131.
 
-
-Underfull \hbox (badness 1221) in paragraph at lines 136--137
-\TU/Calibri(0)/m/n/11 visualize R conference/events tweets in a central flexdas
-hboard.
- []
-
 LaTeX Font Info:    Calculating math sizes for size <11> on input line 137.
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
@@ -1218,12 +1212,12 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 6499C317FAA4B9E366308EB0EA683A19;914.
+(rerunfilecheck)             Checksum: FB3BCF0DB6615CCFD884BF9717CBD3E9;942.
  ) 
 Here is how much of TeX's memory you used:
  26841 strings out of 412016
  510898 string characters out of 2843701
- 961820 words of memory out of 3000000
+ 961848 words of memory out of 3000000
  46111 multiletter control sequences out of 15000+200000
  407118 words of font info for 85 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
