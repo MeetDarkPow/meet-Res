@@ -23,6 +23,7 @@
 \usepackage[super]{nth}
 \usepackage{tikz}
 \usepackage{graphicx}
+\usepackage{fontawesome}
 \graphicspath{ {images/} }
 
 % Color definitions
@@ -61,6 +62,28 @@
 \titlespacing{\subsubsection}{0pt}{\parskip}{-\parskip}
 \newcommand{\runsubsection}[1]{\color{subheadings}
 	\fontspec[Path = fonts/calibri/]{CALIBRIB}\fontsize{12pt}{12pt}\selectfont\bfseries {#1} \normalfont}
+
+%hyperlink
+\newcommand{\ExternalLink}{%
+	\tikz[x=1.2ex, y=1.2ex, baseline=-0.05ex]{% 
+		\begin{scope}[x=1ex, y=1ex]
+			\clip (-0.1,-0.1) 
+			--++ (-0, 1.2) 
+			--++ (0.6, 0) 
+			--++ (0, -0.6) 
+			--++ (0.6, 0) 
+			--++ (0, -1);
+			\path[draw, 
+			line width = 0.5, 
+			rounded corners=0.5] 
+			(0,0) rectangle (1,1);
+		\end{scope}
+		\path[draw, line width = 0.5] (0.5, 0.5) 
+		-- (1, 1);
+		\path[draw, line width = 0.5] (0.6, 1) 
+		-- (1, 1) -- (1, 0.6);
+	}
+}
 
 % Descriptors command
 \newcommand{\descript}[1]{\color{subheadings}\raggedright\hspace*{0pt}\hfill\vspace{3pt}\fontspec[Path = fonts/calibri/]{CALIBRIB}\fontsize{11pt}{13pt}\selectfont {#1 \\} \normalfont}
